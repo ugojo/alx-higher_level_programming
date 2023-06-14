@@ -4,4 +4,4 @@ def print_sorted_dictionary(a_dictionary):
 
     for key in ord_list:
         val = a_dictionary[key]
-        print("{}: {}".format(key, val)
+        print("{}: {}".format(key, val))
